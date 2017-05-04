@@ -1,0 +1,69 @@
+[
+  {
+
+
+    "type": "BasicCard",
+    "front": "Who is the first African American President?",
+    "back": "Barack Obama"
+  },
+  {
+
+    "type": "BasicCard",
+    "front": "When did we start this course?",
+    "back": "Feburary 2nd"
+  },
+  {
+    "type": "BasicCard",
+    "front": "Who is the most basic player in the NBA as of 2017?",
+    "back": "Kwhai Lenoard"
+
+  },
+  {
+    "type": "BasicCard",
+    "front": "Who was the man of peace?",
+    "back": "Ghandi"
+
+  },
+  {
+    "type":"BasicCard",
+    "front": "What company has great company culture?",
+    "back": "Patagonia"
+
+  },
+  {
+    "type": "BasicCard",
+    "front": "What can you do to always get what you want?",
+    "back": "Smile"
+  },
+  {
+    "type":"BasicCard",
+    "front":"Why did Trump become President?",
+    "back": "Mindless individuals"
+  },
+  {
+    "type":"BasicCard",
+    "front":"Why did the NFL cut down on hits to the head?",
+    "back": "Concussions"
+  },
+  {
+    "type": "ClozeCard",
+    "front": "How many teams are there in the NFL?",
+    "back": "33"
+  },
+  {
+    "type": "ClozeCard",
+    "front": "What's the most points scored in a NBA game?",
+    "back": "81",
+  },
+  {
+    "type": "ClozeCard",
+    "front": "If you eat a lot of carrots does your vision get better?",
+    "back": "No,that was a myth that was developed over one of the World Wars"
+  },
+  {
+    "type": "ClozeCard",
+    "front": "Can white men jump?",
+    "back": "Come on now......NO"
+  }
+  
+]
